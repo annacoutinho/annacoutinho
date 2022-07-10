@@ -1,6 +1,6 @@
 ### Olá, eu sou a annacoutinho
 
-- 🌱 Eu estou estudando JavaScript
+- 🌱 Voltada ao desenvolvimento FullStack
 - 💬 Contrate-me no e-mail: annacarol.coutinho@icloud.com
 - 😄 Pronomes: ela/dela
 <div align="center">
