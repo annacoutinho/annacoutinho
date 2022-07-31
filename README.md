@@ -1,4 +1,4 @@
-### Olá, eu sou a annacoutinho
+### Olá, eu sou a Anna Carolina Coutinho
 
 - 🌱 Voltada ao desenvolvimento FullStack
 - 💬 Contrate-me no e-mail: coutinhoanna6@gmail.com
