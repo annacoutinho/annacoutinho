@@ -1,7 +1,7 @@
 ### Olá, eu sou a annacoutinho
 
 - 🌱 Voltada ao desenvolvimento FullStack
-- 💬 Contrate-me no e-mail: annacarol.coutinho@icloud.com
+- 💬 Contrate-me no e-mail: coutinhoanna6@gmail.com
 - 😄 Pronomes: ela/dela
 <div align="center">
   <a href="https://github.com/annacoutinho">
